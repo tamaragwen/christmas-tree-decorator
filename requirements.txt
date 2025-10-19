@@ -1,0 +1,11 @@
+# Christmas Tree Decorator Requirements
+# This project uses only Python standard library modules
+
+# Main GUI framework (included with Python)
+# tkinter - GUI framework
+# dataclasses - Data structure helpers (Python 3.7+)
+# typing - Type hints support
+# random - Random number generation for snow and decoration placement
+
+# Note: No external dependencies required!
+# This project runs with Python 3.7+ standard library only.
